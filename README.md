@@ -1,7 +1,6 @@
-### Hola a todos 👋
+# Hola a todos 👋
 
-<!--
-**Mi nombre es Erik Assael Beltrán Hernández**
+## Mi nombre es Erik Assael Beltrán Hernández
 
 - 📊 Actualmente estoy estudiando una maestría en estadística aplicada ...
 - 👨🏻‍🎓 Soy licenciado en matemáticas aplicadas ... 
@@ -9,4 +8,4 @@
 - ⚡ Estoy interesado en aprender temas que impliquen la estadística ...
 - 🏋🏻‍♂️ Me gusta mucho entrenar en el gimnasio ...
 
--->
+
